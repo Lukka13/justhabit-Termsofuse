@@ -8,7 +8,7 @@ By using the app, you agree to be bound by these Terms.
 
 ## 1. Use of the App
 
-- JustHabits is intended for personal, non-commercial use.
+- Streak Hero is intended for personal, non-commercial use.
 - You must be at least 13 years old to use this app.
 - Do not use the app for any illegal activity or in a way that violates these Terms.
 
